@@ -1,6 +1,6 @@
-# Welcome to Streamlit!
+# GPT-3 Streamlit boilerplate
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+- create virtual environment https://docs.python.org/3/library/venv.html
+- Activate virtual environment: `./venv/Scripts/activate`
+- install dependencies: `pip install -r requirements.txt`
+- Run application `streamlit run gpt_app.py`
